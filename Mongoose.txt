@@ -1,0 +1,9 @@
+Mongoose helps us to create a connection between MongoDB and Node JS,
+Its also a library of MongoDB
+It's also called as Object Document Mapper(ODM)
+
+Advantages of Mongoose versus native MongoDB are :
+
+1. MongooseJS provides abstraction layer on the top of MongoDB that eliminates the need to use collections
+
+2. Models in mongoose will help to perform bulk of work of establishing up default values for documnet properties and validating <i class="fa fa-database" aria-hidden="true"></i>
